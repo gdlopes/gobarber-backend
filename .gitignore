@@ -4,6 +4,9 @@ node_modules/
 build/
 temp/
 .DS_Store
+coverage
+.env
+ormconfig.json
 
 tmp/*
 !tmp/.gitkeep
