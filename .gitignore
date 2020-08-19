@@ -4,7 +4,7 @@ node_modules/
 build/
 temp/
 .DS_Store
-coverage
+coverage/
 .env
 ormconfig.json
 
