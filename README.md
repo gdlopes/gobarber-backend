@@ -8,7 +8,7 @@
 
 ## :rocket: Sobre
 
-O GoBarbar é uma aplicação desenvolvida durante o bootcamp da [Rocketseat](https://rocketseat.com.br/).
+O GoBarber é uma aplicação desenvolvida durante o bootcamp da [Rocketseat](https://rocketseat.com.br/).
 
 ## :computer: Tecnologias utilizadas
 
@@ -75,18 +75,18 @@ $ yarn typeorm migration:run
 $ yarn dev:server
 ```
 
-### :pencil2: Para rodar os testes, basta utilizar o seguinte comando:
+### :fire: Para rodar os testes, basta utilizar o seguinte comando:
 
 ```bash
   # Rodando os testes
   $ yarn test
 ```
 
-## :boom: Agora, utilize o [Insomnia](https://insomnia.rest/) para ver tudo funcionando :)
+## :eyes: Agora, utilize o [Insomnia](https://insomnia.rest/) para ver tudo funcionando
 
 [![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Back-end%20GoBarber&uri=https%3A%2F%2Fgithub.com%2Fgdlopes%2Fgobarber-backend%2Fblob%2Fmaster%2FInsomnia_2020-08-27.json)
 
-### Thats it ! :wave:
+### Thats it ! :coffee:
 
 ---
 
