@@ -50,7 +50,7 @@ $ docker run --name mongodb -p 27017:27017 -d -t mongo
 $ docker run --name redisbarber -p 6379:6379 -d -t redis:alpine
 ```
 
-Você pode usar outros nomes e credenciais para os bancos, lembre-se sempre de conferir isso aqui :point_right: [arquivo de configuração do typeorm](https://github.com/gdlopes/gostack11-desafio-09/blob/master/ormconfig.json) e nas [variáveis de ambiente]().
+Você pode usar outros nomes e credenciais para os bancos, lembre-se sempre de conferir isso aqui :point_right: [arquivo de configuração do typeorm](https://github.com/gdlopes/gobarber-backend/blob/master/ormconfig.json) e nas [variáveis de ambiente](https://github.com/gdlopes/gobarber-backend/blob/master/.env.example).
 
 :warning: Aqui está disponível um aquivo chamado `.env.example` é necessário criar uma cópia deste arquivo, porém com o nome `.env` para as variáveis de ambiente funcionarem.
 
@@ -84,7 +84,7 @@ $ yarn dev:server
 
 ## :boom: Agora, utilize o [Insomnia](https://insomnia.rest/) para ver tudo funcionando :)
 
-[![Run in Insomnia}](https://insomnia.rest/images/run.svg)]()
+[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Back-end%20GoBarber&uri=https%3A%2F%2Fgithub.com%2Fgdlopes%2Fgobarber-backend%2Fblob%2Fmaster%2FInsomnia_2020-08-27.json)
 
 ### Thats it ! :wave:
 
